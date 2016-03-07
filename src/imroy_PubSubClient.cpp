@@ -4,7 +4,7 @@
   http://knolleary.net
 */
 
-#include "PubSubClient.h"
+#include "imroy_PubSubClient.h"
 #include <string.h>
 
 PubSubClient::PubSubClient(Client& c) :

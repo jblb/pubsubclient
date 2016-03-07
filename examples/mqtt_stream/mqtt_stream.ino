@@ -10,7 +10,7 @@
 */
 
 #include <ESP8266WiFi.h>
-#include <PubSubClient.h>
+#include <imroy_PubSubClient.h>
 #include <SRAM.h>
 
 const char *ssid =	"xxxxxxxx";		// cannot be longer than 32 characters!

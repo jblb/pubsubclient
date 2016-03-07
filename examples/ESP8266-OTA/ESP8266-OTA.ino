@@ -10,7 +10,7 @@
 
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
-#include <PubSubClient.h>
+#include <imroy_PubSubClient.h>
 
 // Replace with your Wifi SSID and passphrase
 const char* ssid = "xxxxxxxx";

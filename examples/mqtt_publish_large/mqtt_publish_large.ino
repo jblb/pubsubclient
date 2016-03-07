@@ -6,7 +6,7 @@
 */
 
 #include <ESP8266WiFi.h>
-#include <PubSubClient.h>
+#include <imroy_PubSubClient.h>
 
 const char *ssid =	"xxxxxxxx";		// cannot be longer than 32 characters!
 const char *pass =	"yyyyyyyy";		//
